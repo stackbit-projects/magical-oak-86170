@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/PXL_20210102_021049302.PORTRAIT.jpg
+    background_image: images/PXL_20210102_021049302.PORTRAIT (1).jpg
     background_image_opacity: 65
     content: "# Mothers\_•\_Local\_•\_Community\n\nA curated gift experience that provides practical and meaningful support to our local women as they become mothers.\n"
     actions:
