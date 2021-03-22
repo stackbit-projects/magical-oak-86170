@@ -6,12 +6,7 @@ sections:
     section_id: hero_section
     background_image: images/DSC04802.JPG
     background_image_opacity: 65
-    content: >
-      ## Mothers • Local • Community
-
-
-      A curated gift experience that provides practical and meaningful support
-      to our local women as they become mothers.
+    content: "# Mothers\_•\_Local\_•\_Community\n\nA curated gift experience that provides practical and meaningful support to our local women as they become mothers.\n"
     actions:
       - title: See all items
         url: /store
