@@ -6,11 +6,12 @@ sections:
     section_id: hero_section
     background_image: images/DSC04802.JPG
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Mothers • Local • Community
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      A curated gift experience that provides practical and meaningful support
+      to our local women as they become mothers.
     actions:
       - title: See all items
         url: /store
