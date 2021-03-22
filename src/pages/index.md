@@ -7,7 +7,7 @@ sections:
     background_image: images/DSC04802.JPG
     background_image_opacity: 65
     content: >
-      # Mothers • Local • Community
+      ## Mothers • Local • Community
 
 
       A curated gift experience that provides practical and meaningful support
